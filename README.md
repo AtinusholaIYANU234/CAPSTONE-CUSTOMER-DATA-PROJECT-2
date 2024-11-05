@@ -46,3 +46,34 @@ This is where i include some basic lines of queries and formulars (excel metrics
 ```SQL
 SELECT * FROM[dbo].[CustomerDATA ProJECT 2]
 ```
+```SQL
+SELECT Region, COUNT(customerID) AS Total_Customers
+FROM[dbo].[CustomerDATA ProJECT 2]
+Group By Region;
+```
+```SQL
+SELECT SubscriptionType,
+COUNT(CustomerID) AS Most_Popular_Subscription_Type
+FROM[dbo].[CustomerDATA ProJECT 2]
+GROUP BY SubscriptionType
+ORDER BY Most_Popular_Subscription_Type
+DESC
+```
+```SQL
+SELECT CustomerName,
+SubscriptionStart
+SubscriptionEnd
+FROM[dbo].[CustomerDATA ProJECT 2]
+WHERE Canceled = 'TRUE'
+```
+```SQL
+SELECT SubscriptionType, SUM(revenue) AS Total_Revenue
+FROM[dbo].[CustomerDATA ProJECT 2]
+GROUP BY SubscriptionType
+```
+```SQL
+SELECT
+ SUM(CASE WHEN canceled='TRUE' THEN 1 ELSE 0 END)AS Total_Canceled,
+  SUM(CASE WHEN Canceled='FALSE' THEN 1 ELSE 0 END) AS Total_Active
+FROM[dbo].[CustomerDATA ProJECT 2]
+```
