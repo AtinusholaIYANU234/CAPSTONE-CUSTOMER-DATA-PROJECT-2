@@ -41,4 +41,8 @@ Conducting Exploratory Data Analysis (EDA) for customer segmentation in a subscr
 
 ### Data Analysis
 ---
-This is where i include some basic lines of queries and formulars (excel metrics) used during the analysis 
+This is where i include some basic lines of queries and formulars (excel metrics) used during the analysis  
+
+```SQL
+SELECT * FROM[dbo].[CustomerDATA ProJECT 2]
+```
