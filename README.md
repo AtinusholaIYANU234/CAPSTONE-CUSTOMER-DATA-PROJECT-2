@@ -38,3 +38,7 @@ Conducting Exploratory Data Analysis (EDA) for customer segmentation in a subscr
 - Find customers who canceled their subsriptions within six months
 - Calculate the total revenue by subscription type
 - Find the total number of active and canceled subscriptions.
+
+### Data Analysis
+---
+This is where i include some basic lines of queries and formulars (excel metrics) used during the analysis 
