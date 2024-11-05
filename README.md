@@ -99,10 +99,4 @@ FROM[dbo].[CustomerDATA ProJECT 2]
 ![IMG_20241105_222445_504](https://github.com/user-attachments/assets/665ca675-17fb-4cc3-9f8c-13bd6b33b96b)
 ![IMG_20241105_221815_017](https://github.com/user-attachments/assets/ac67966b-bf53-4ab7-bbd2-cd097b04adcd)
 
-![IMG_20241105_222257_128](https://github.com/user-attachments/assets/2c915f9c-a16c-455e-9940-429171fafbf8)
-
-
-
-
-![IMG_20241105_222445_504](https://github.com/user-attachments/assets/6a52d522-dbab-406b-859c-5500b6bbd38c)
 
