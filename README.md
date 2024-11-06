@@ -79,24 +79,18 @@ FROM[dbo].[CustomerDATA ProJECT 2]
 ```
 ### Data Visualization
 ---
-![IMG_20241105_220119_429](https://github.com/user-attachments/assets/9feceac5-8774-416f-9b69-a89bb21d3986)
+![SQL Total Number of Customers from each Region](https://github.com/user-attachments/assets/185c7c08-065b-45b6-8b3d-bff03d32f733)
 
-![IMG_20241105_220213_233](https://github.com/user-attachments/assets/cd78c1fb-a8c0-44a1-922a-687c7ff745b5)
+![SQL Customers who canceled within 6 months](https://github.com/user-attachments/assets/2740382c-aaa5-46ea-90d1-812fe8569f8b)
 
-![IMG_20241105_220256_839](https://github.com/user-attachments/assets/84c8d224-c746-4d85-90cb-03bfa837644e)
+![Pivot Table 1](https://github.com/user-attachments/assets/c70b65a1-37a3-4970-bd98-c13c71636b3d)
 
-![Uploading IMG_20241105_221545_847.jpg…]()
-![IMG_20241105_221638_187](https://github.com/user-attachments/assets/cbf72ed6-016a-46bd-9381-bede8b154494)
+![Customer Data](https://github.com/user-attachments/assets/1fbb880b-4343-4d3f-8615-3433c9a047ba)
 
-![IMG_20241105_221815_017](https://github.com/user-attachments/assets/b9988dbc-aee4-436a-ae44-cb9ffb2f56c5)
+![Dashboard](https://github.com/user-attachments/assets/e3b73512-fc77-4ae3-b4df-c3e91e17c70f)
 
-![IMG_20241105_221923_487](https://github.com/user-attachments/assets/9b394ac2-cd0e-4018-847f-268265c8c002)
-![IMG_20241105_222257_128](https://github.com/user-attachments/assets/850d7c81-822f-4a36-b07b-4b5e3102b30e)
+![Pivot Table 2](https://github.com/user-attachments/assets/0951ba77-3324-4111-b82d-b07e8dc57f28)
 
-![IMG_20241105_222333_468](https://github.com/user-attachments/assets/96d9c905-8a04-45c7-a0b7-4e99ed32ea12)
-![IMG_20241105_222402_790](https://github.com/user-attachments/assets/35e8c902-af8c-4202-a62e-4fb5a3edc370)
 
-![IMG_20241105_222445_504](https://github.com/user-attachments/assets/665ca675-17fb-4cc3-9f8c-13bd6b33b96b)
-![IMG_20241105_221815_017](https://github.com/user-attachments/assets/ac67966b-bf53-4ab7-bbd2-cd097b04adcd)
 
 
